@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2014 The CyanogenMod Project
+     Copyright (C) 2014 The OWL Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,24 +16,24 @@
 -->
 <resources>
     <string-array name="preferences_interface_general_icons_text_font_family_entries">
-        <item>Standaard</item>
-        <item>Licht</item>
-        <item>Smal</item>
+        <item>Normal</item>
+        <item>Fina</item>
+        <item>Comprimida</item>
     </string-array>
     <string-array name="transition_effect_entries">
-        <item>Geen</item>
-        <item>Inzoomen</item>
-        <item>Uitzoomen</item>
-        <item>Naar boven draaien</item>
-        <item>Naar beneden draaien</item>
-        <item>Kubus-in</item>
-        <item>Kubus-uit</item>
-        <item>Stapelen</item>
-        <item>Accordeon</item>
-        <item>Spiegelen</item>
-        <item>Cilinder-in</item>
-        <item>Cilinder-uit</item>
-        <item>Carrousel</item>
-        <item>Overzicht</item>
+        <item>Nengún</item>
+        <item>Zoom entrante</item>
+        <item>Zoom saliente</item>
+        <item>Rotar arriba</item>
+        <item>Rotar abaxo</item>
+        <item>Cúbicu entrante</item>
+        <item>Cúbicu saliente</item>
+        <item>Empilar</item>
+        <item>Acordión</item>
+        <item>Voltiar</item>
+        <item>Cilíndricu entrante</item>
+        <item>Cilíndricu saliente</item>
+        <item>Carrusel</item>
+        <item>Perspeutiva</item>
     </string-array>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2014 The CyanogenMod Project
+     Copyright (C) 2014 The OWL Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -14,26 +14,26 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="preferences_interface_general_icons_text_font_family_entries">
-        <item>Κανονική</item>
-        <item>Λεπτή</item>
-        <item>Συμπυκνωμένη</item>
+        <item>Normal</item>
+        <item>Leve</item>
+        <item>Condensado</item>
     </string-array>
     <string-array name="transition_effect_entries">
-        <item>Κανένα</item>
-        <item>Ζουμ μέσα</item>
-        <item>Ζουμ έξω</item>
-        <item>Περιστροφή πάνω</item>
-        <item>Περιστροφή κάτω</item>
-        <item>Κύβος μέσα</item>
-        <item>Κύβος έξω</item>
-        <item>Στοίβα</item>
-        <item>Ακορντεόν</item>
-        <item>Αναποδογύρισμα</item>
-        <item>Κύλινδρος μέσα</item>
-        <item>Κύλινδρος έξω</item>
-        <item>Καρουσέλ</item>
-        <item>Επισκόπηση</item>
+        <item>Nenhum</item>
+        <item>Dar Zoom</item>
+        <item>Tirar Zoom</item>
+        <item>Rotacionar p/ Cima</item>
+        <item>Rotacionar p/ Baixo</item>
+        <item>Cubo Interno</item>
+        <item>Cubo Externo</item>
+        <item>Pilha</item>
+        <item>Acordeão</item>
+        <item>Girar</item>
+        <item>Cilindro Interno</item>
+        <item>Cilindro Externo</item>
+        <item>Carrossel</item>
+        <item>Visão Geral</item>
     </string-array>
 </resources>

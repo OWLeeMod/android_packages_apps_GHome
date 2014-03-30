@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2014 The CyanogenMod Project
+     Copyright (C) 2014 The OWL Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,8 +16,24 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string-array name="preferences_interface_general_icons_text_font_family_entries">
-    <item>Biasa</item>
-    <item>Nipis</item>
-    <item>Tebal</item>
+    <item>רגיל</item>
+    <item>לבן</item>
+    <item>מרוכז</item>
+  </string-array>
+  <string-array name="transition_effect_entries">
+    <item>ללא</item>
+    <item>התקרבות</item>
+    <item>התרחקות</item>
+    <item>סובב שמאלה</item>
+    <item>סובב ימינה</item>
+    <item>קוביית פנים</item>
+    <item>קוביית חוץ</item>
+    <item>מחסנית</item>
+    <item>אקורדיון</item>
+    <item>היפוך</item>
+    <item>גליל פנימי</item>
+    <item>גליל חיצוני</item>
+    <item>קרוסלה</item>
+    <item>תקציר</item>
   </string-array>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2014 The CyanogenMod Project
+     Copyright (C) 2014 The OWL Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -14,27 +14,26 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="preferences_interface_general_icons_text_font_family_entries">
-        <item>Obyčejné</item>
-        <item>Slabé</item>
-        <item>Zůžené</item>
+        <item>Regolare</item>
+        <item>Luminoso</item>
+        <item>Condensato</item>
     </string-array>
-
     <string-array name="transition_effect_entries">
-        <item>Žádný</item>
-        <item>Přiblížení</item>
-        <item>Oddálení</item>
-        <item>Rotace nahoru</item>
-        <item>Rotace dolu</item>
-        <item>Uvnitř krychle</item>
-        <item>Vně krychle</item>
-        <item>Vrstvy</item>
-        <item>Harmonika</item>
-        <item>Překlopení</item>
-        <item>Uvnitř válce</item>
-        <item>Vně válce</item>
-        <item>Kolotoč</item>
-        <item>Přehled</item>
+        <item>Nessuno</item>
+        <item>Riduci</item>
+        <item>Ingrandisci</item>
+        <item>Ruota su</item>
+        <item>Ruota giù</item>
+        <item>Cubo interno</item>
+        <item>Cubo esterno</item>
+        <item>Pila</item>
+    <item>Fisarmonica</item>
+        <item>Specchia</item>
+        <item>Cilindro interno</item>
+        <item>Cilindro esterno</item>
+        <item>Carosello</item>
+        <item>Panoramica</item>
     </string-array>
 </resources>

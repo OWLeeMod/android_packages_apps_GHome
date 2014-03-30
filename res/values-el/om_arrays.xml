@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2014 The CyanogenMod Project
+     Copyright (C) 2014 The OWL Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,25 +16,24 @@
 -->
 <resources>
     <string-array name="preferences_interface_general_icons_text_font_family_entries">
-        <item>Обычный</item>
-        <item>Облегчённый</item>
-        <item>Сжатый</item>
+        <item>Κανονική</item>
+        <item>Λεπτή</item>
+        <item>Συμπυκνωμένη</item>
     </string-array>
-
     <string-array name="transition_effect_entries">
-        <item>Нет</item>
-        <item>Увеличение</item>
-        <item>Уменьшение</item>
-        <item>Поворот вверх</item>
-        <item>Поворот вниз</item>
-        <item>Внутри куба</item>
-        <item>Снаружи куба</item>
-        <item>Стопка</item>
-        <item>Сжатие</item>
-        <item>Переворот</item>
-        <item>Внутри цилиндра</item>
-        <item>Снаружи цилиндра</item>
-        <item>Карусель</item>
-        <item>Обзор</item>
+        <item>Κανένα</item>
+        <item>Ζουμ μέσα</item>
+        <item>Ζουμ έξω</item>
+        <item>Περιστροφή πάνω</item>
+        <item>Περιστροφή κάτω</item>
+        <item>Κύβος μέσα</item>
+        <item>Κύβος έξω</item>
+        <item>Στοίβα</item>
+        <item>Ακορντεόν</item>
+        <item>Αναποδογύρισμα</item>
+        <item>Κύλινδρος μέσα</item>
+        <item>Κύλινδρος έξω</item>
+        <item>Καρουσέλ</item>
+        <item>Επισκόπηση</item>
     </string-array>
 </resources>

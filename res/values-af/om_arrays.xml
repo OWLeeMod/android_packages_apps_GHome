@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2014 The CyanogenMod Project
+     Copyright (C) 2014 The OWL Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -14,26 +14,26 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources>
     <string-array name="preferences_interface_general_icons_text_font_family_entries">
-        <item>Normal</item>
-        <item>Leve</item>
-        <item>Condensado</item>
+        <item>Gereelde</item>
+        <item>Lig</item>
+        <item>Verkorte</item>
     </string-array>
     <string-array name="transition_effect_entries">
-        <item>Nenhum</item>
-        <item>Dar Zoom</item>
-        <item>Tirar Zoom</item>
-        <item>Rotacionar p/ Cima</item>
-        <item>Rotacionar p/ Baixo</item>
-        <item>Cubo Interno</item>
-        <item>Cubo Externo</item>
-        <item>Pilha</item>
-        <item>Acordeão</item>
-        <item>Girar</item>
-        <item>Cilindro Interno</item>
-        <item>Cilindro Externo</item>
-        <item>Carrossel</item>
-        <item>Visão Geral</item>
+        <item>Geen</item>
+        <item>Zoom in</item>
+        <item>Zoom uit</item>
+        <item>Roteer op</item>
+        <item>Roteer af</item>
+        <item>Kubus in</item>
+        <item>Kubus uit</item>
+        <item>Stapel</item>
+        <item>Trek klavier</item>
+        <item>Flip</item>
+        <item>Silinder in</item>
+        <item>Silinder uit</item>
+        <item>Rondomtalie</item>
+        <item>Oorsig</item>
     </string-array>
 </resources>
